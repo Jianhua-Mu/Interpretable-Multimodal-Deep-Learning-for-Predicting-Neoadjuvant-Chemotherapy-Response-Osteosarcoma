@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+scipy
+h5py
+Pillow
+opencv-python
+openslide-python
+PyYAML
+matplotlib
+tensorboardX
